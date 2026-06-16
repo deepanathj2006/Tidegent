@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Cache
+data/classification_cache.json
+
+# Generated Files
+deleted_files/*
+monitored_folder/*
+
+# Reports
+*.pdf
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
